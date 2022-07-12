@@ -3,7 +3,7 @@ Project made to teach to the students how the TCA - The Composable Architecture 
 
 # Used:
 SwiftUI<br/>
-The Composable Architecture<br/>
+The Composable Architecture - https://github.com/pointfreeco/swift-composable-architecture<br/>
 
 # Preview
 <img src="https://github.com/renatomateusx/TCA-SwiftUI/blob/master/tca.gif" width="350" title="LevelShoes Challenge">
